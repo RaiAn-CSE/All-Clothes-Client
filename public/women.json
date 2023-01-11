@@ -1,0 +1,26 @@
+[
+    {
+        "categoryId": 2,
+        "productName": "Salwar kameez",
+        "productImage": "https://i.ibb.co/h7mbHth/salwar-kameez.jpg",
+        "location": "Mirpur,Dhaka",
+        "resalePrice": 150,
+        "originalPrice": 400,
+        "yearsOfUse": "2 months",
+        "postTime": "2022-11-10T12:40:37.186Z",
+        "sellerName": "Kazi salma",
+        "verified": "yes"
+    },
+    {
+        "categoryId": 2,
+        "productName": "Orna",
+        "productImage": "https://i.ibb.co/SfspRFg/orna.jpg",
+        "location": "Shonir Akhra,Dhaka",
+        "resalePrice": 50,
+        "originalPrice": 100,
+        "yearsOfUse": "3 months",
+        "postTime": "2022-11-10T12:40:37.186Z",
+        "sellerName": "Jarin",
+        "verified": "no"
+    }
+]

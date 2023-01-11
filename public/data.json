@@ -1,0 +1,17 @@
+[
+    {
+        "categoryId": 1,
+        "categoryName": "Men's Clothes",
+        "categoryImage": "https://ibb.co/zNqx7z2"
+    },
+    {
+        "categoryId": 2,
+        "categoryName": "Women's Clothes",
+        "categoryImage": "https://ibb.co/XFFVy7M"
+    },
+    {
+        "categoryId": 3,
+        "categoryName": "Children's Clothes",
+        "categoryImage": "https://ibb.co/MZvTmQs"
+    }
+]

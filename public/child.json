@@ -1,0 +1,26 @@
+[
+    {
+        "categoryId": 3,
+        "productName": "Baby girl sweater",
+        "productImage": "https://i.ibb.co/wNs0VYp/child-sweateer.jpg",
+        "location": "Mirpur,Dhaka",
+        "resalePrice": 150,
+        "originalPrice": 400,
+        "yearsOfUse": "1 year",
+        "postTime": "2022-11-10T12:40:37.186Z",
+        "sellerName": "Kazi Jalil",
+        "verified": "yes"
+    },
+    {
+        "categoryId": 3,
+        "productName": "Child winter socks",
+        "productImage": "https://i.ibb.co/b20MmBk/muja.jpg",
+        "location": "Shonir Akhra,Dhaka",
+        "resalePrice": 40,
+        "originalPrice": 80,
+        "yearsOfUse": "12 months",
+        "postTime": "2022-11-10T12:40:37.186Z",
+        "sellerName": "Shanjana",
+        "verified": "no"
+    }
+]

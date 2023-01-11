@@ -1,0 +1,26 @@
+[
+    {
+        "categoryId": 1,
+        "productName": "Amanat sah lungi",
+        "productImage": "https://i.ibb.co/k9Bbmzv/lungi.jpg",
+        "location": "Mirpur,Dhaka",
+        "resalePrice": 100,
+        "originalPrice": 400,
+        "yearsOfUse": "2 months",
+        "postTime": "2022-11-10T12:40:37.186Z",
+        "sellerName": "Kazi salam",
+        "verified": "yes"
+    },
+    {
+        "categoryId": 1,
+        "productName": "Men's Clothes",
+        "productImage": "https://i.ibb.co/Wf18fmn/ganji.jpg",
+        "location": "Shonir Akhra,Dhaka",
+        "resalePrice": 80,
+        "originalPrice": 300,
+        "yearsOfUse": "3 months",
+        "postTime": "2022-11-10T12:40:37.186Z",
+        "sellerName": "Rafiq ahamed",
+        "verified": "no"
+    }
+]
